@@ -121,6 +121,9 @@ class Main extends React.Component {
         })
         }) 
     }
+    onGoto=()=>{
+        window.location.href="https://github.com/zhangwei900808/react-material-layout"
+    }
   render(){
     return (
         <div className={this.classes.root}>
@@ -132,7 +135,7 @@ class Main extends React.Component {
                 <Typography type="title" color="inherit" className={this.classes.flex}>
                     React-Material-Layout
                 </Typography>
-                <Button color="contrast">Github</Button>
+                <Button color="contrast" onClick={this.onGoto}>Github</Button>
                 </Toolbar>
             </AppBar>
             <section className={this.classes.root}>
