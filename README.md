@@ -3,7 +3,7 @@
 <img width="414" src="http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-1.png"/>
 <img width="414" src="http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-2.png"/>
 <img width="300" src="http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-3.png"/>
-<img width="400" src="http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-4.png"/>
+<img width="300" src="http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-4.png"/>
 
 ## Usage
 
