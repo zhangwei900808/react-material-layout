@@ -1,6 +1,9 @@
 # React-Material-Layout
 
-![](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout.gif)
+![](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-1.png)
+![](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-2.png)
+![](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-3.png)
+![](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-4.png)
 
 ## Usage
 
