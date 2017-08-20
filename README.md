@@ -10,6 +10,8 @@
 ```
 git clone git@github.com:zhangwei900808/react-material-layout.git
 npm install
+npm run build
+npm run start
 ```
 
 
