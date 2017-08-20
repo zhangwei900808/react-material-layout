@@ -1,9 +1,9 @@
 # React-Material-Layout
 
-![](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-1.png =414x747)
-![](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-2.png =414x747)
-![](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-3.png =414x738)
-![](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-4.png =414x738)
+![-w414](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-1.png)
+![-w414](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-2.png)
+![-w300](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-3.png)
+![-w300](http://cdn.awbeci.com/images/awbeci-xyz/blog/react-material-layout-4.png)
 
 ## Usage
 
